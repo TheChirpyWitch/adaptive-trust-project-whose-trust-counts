@@ -67,3 +67,8 @@ The derived files are built from public data:
 Only rating, recognition and political-identity variables are kept; IP addresses,
 locations, zip codes, free-text responses and original respondent IDs are dropped.
 Please cite the original datasets if you use the derived files.
+
+## License
+
+Code is released under the MIT License (see `LICENSE`). The derived data files are built from the
+public datasets listed above and remain subject to their original terms.
